@@ -1,6 +1,6 @@
 # yoochangsun
 
-Hello, i'am a Seoultech university's student.
+Hello, I'm a student at Seoul National University of Science and Technology.
 
 ## major
 - Computer Engineering
